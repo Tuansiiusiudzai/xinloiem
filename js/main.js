@@ -103,7 +103,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        imageUrl: 'img/Screenshot 2024-11-10 012218.png',
+        imageUrl: 'img/logi.gif',
         imageWidth: 300,
         imageHeight: 300,
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
